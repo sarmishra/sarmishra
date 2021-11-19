@@ -1,6 +1,6 @@
 <h1 align = 'center'>Hi there 👋 </h1>
 <p align='center'>
-I'm Saroj.
+I'm Saroj Mishra.
 </p>
 <p align='center'>For enquiries, reach out @ saroj.mishra773@gmail.com or over on <a href="https://www.linkedin.com/in/ersarojmishra/">LinkedIn</a>.</p>
 
